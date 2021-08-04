@@ -1,4 +1,4 @@
-# arch-awesome-config
+# sys-awesome-config
 
 Packages:
 
